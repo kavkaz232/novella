@@ -1,0 +1,10 @@
+/audio
+/gui
+/images
+/movies
+/saves
+*.ttf
+*.otf
+*.png
+*.jpg
+*.mp3
